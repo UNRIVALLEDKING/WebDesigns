@@ -1,0 +1,86 @@
+.icon {
+    font-size: 25px;
+    color: white;
+    transition: 700ms;
+}
+
+.icon:hover {
+    color: orange;
+    transition: 700ms;
+}
+
+.navbar-collapse {
+    flex-grow: unset;
+}
+
+.nav_text {
+    font-family: Raleway;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: white;
+    transition: 700ms;
+}
+
+.nav_text:hover {
+    color: orange;
+    transition: 700ms;
+}
+
+.menu {
+    height: 10px;
+    width: 50px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.hamberger-menu {
+    --height: 10px;
+    height: 10px;
+    width: 100%;
+    background-color: white;
+    border-radius: calc(var(--height));
+    position: relative;
+    left: 0;
+    transform: rotate(0deg);
+    transition: all ease 0.5s;
+}
+
+.hamberger-menu::before,
+.hamberger-menu::after {
+    content: "";
+    position: absolute;
+    background-color: inherit;
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    border-radius: inherit;
+    transition: all ease 0.5s;
+}
+
+.hamberger-menu::before {
+    top: -20px;
+    left: 0;
+    transform-origin: left;
+}
+
+.hamberger-menu::after {
+    bottom: -20px;
+    right: 0;
+    transform-origin: right;
+}
+
+.open {
+    transform: rotate(135deg);
+}
+
+.open::before {
+    top: 0;
+    transform: translateX(100%) rotate(-90deg);
+}
+
+.open::after {
+    bottom: 0;
+    transform: translateX(-100%) rotate(-90deg);
+}

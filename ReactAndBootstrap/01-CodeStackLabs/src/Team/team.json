@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Deepak Kumar",
+        "title":"Back-End Developer",
+        "linkedin":"https://www.linkedin.com/in/shekharsahani/",
+        "img":"https://www.varianceinfotech.com/assets/front/images/banner-images/reactjs-banner-image.png"
+    },
+    {
+        "id":2,
+        "name":"Shekhar Sahani",
+        "title":"Front-End Developer",
+        "linkedin":"https://www.linkedin.com/in/shekharsahani/",
+        "img":"https://www.varianceinfotech.com/assets/front/images/banner-images/reactjs-banner-image.png"
+
+    },
+    {
+        "id":3,
+        "name":"Priyanshu Sinha",
+        "title":"Front-End Developer",
+        "linkedin":"https://www.linkedin.com/in/shekharsahani/",
+        "img":"https://www.varianceinfotech.com/assets/front/images/banner-images/reactjs-banner-image.png"
+
+    },
+    {
+        "id":4,
+        "name":"Hritik Kumar",
+        "title":"Graphic & Content",
+        "linkedin":"https://www.linkedin.com/in/shekharsahani/",
+        "img":"https://www.varianceinfotech.com/assets/front/images/banner-images/reactjs-banner-image.png"
+
+    }
+]

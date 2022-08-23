@@ -1,0 +1,35 @@
+[
+    {
+        "description-instrucions":"Always write description of more than 120 letters",
+        "id": 1,
+        "type":"Website",
+        "title": "SkillNinjas",
+        "url": "https://skillninjas.in",
+        "img": "/Images/SkillNinjas.jpg",
+        "desc": "SkillNinjas have come up with the mission to teach the industry-standard skill to young people and prepare them for the job."
+    },
+    {
+        "id": 2,
+        "type":"Web Application",
+        "title": "AltInvest1",
+        "url": "https://www.altinvest1.com",
+        "img": "/Images/AltInvest1.jpg",
+        "desc": "Single platform for carrying out end to end process undertaken by start-ups, syndicates/networks & investors for fund raising & investment with process, document and portfolio management."
+    },
+    {
+        "id": 3,
+        "type":"Website",
+        "title": "HealthX",
+        "url": "https://myhealthx.in/",
+        "img": "/Images/AltInvest1.jpg",
+        "desc": "HealthX provides a digital care ecosystem, across all OPD and IPD workflows for a doctor. Available over Web, iOS, and Android the platform is integrated into Hospital Information System (HIS), Laboratory Information System (LIS), Radiology Information System (RIS) and Pharmacy Management Systems."
+    },
+    {
+        "id": 4,
+        "type":"OTT Platform",
+        "title": "MuktiPrime",
+        "url": "https://www.muktiprime.com/",
+        "img": "/Images/Muktiprime.jpg",
+        "desc": "Mukti Prime is a subscription based OTT Platform with Movie and Series Hosting service. let your audience to manage their playlist and recommends them movies based on their interest"
+    }
+]

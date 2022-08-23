@@ -1,0 +1,72 @@
+[
+    {
+    "id":"1",
+    "title":"React.Js",
+    "class":"logo_caro_img border_green",
+    "img":"/Images/ReactJs.png",
+    "toggle":"odd"
+    },
+    {
+    "id":"2",
+    "title":"Python",
+    "class":"logo_caro_img border_purple",
+    "img":"/Images/Python.png",
+    "toggle":"even"
+    },
+    {
+    "id":"3",
+    "title":"Android Studio",
+    "class":"logo_caro_img border_green",
+    "img":"/Images/Android-Studio.png",
+    "toggle":"odd"
+    },
+    {
+    "id":"4",
+    "title":"Figma",
+    "class":"logo_caro_img border_purple",
+    "img":"/Images/Figma.png",
+    "toggle":"even"
+    },
+    {
+    "id":"5",
+    "title":"Javascript",
+    "class":"logo_caro_img border_green",
+    "img":"/Images/Javascript.png",
+    "toggle":"odd"
+    },
+    {
+    "id":"6",
+    "title":"Django",
+    "class":"logo_caro_img border_purple",
+    "img":"/Images/Django.png",
+    "toggle":"even"
+    },
+    {
+    "id":"7",
+    "title":"Next.Js",
+    "class":"logo_caro_img border_green",
+    "img":"/Images/NextJs.png",
+    "toggle":"odd"
+    },
+    {
+    "id":"8",
+    "title":"Flutter",
+    "class":"logo_caro_img border_purple",
+    "img":"/Images/Flutter.png",
+    "toggle":"even"
+    },
+    {
+    "id":"9",
+    "title":"CSS",
+    "class":"logo_caro_img border_green",
+    "img":"/Images/CSS.png",
+    "toggle":"odd"
+    },
+    {
+    "id":"10",
+    "title":"Angular",
+    "class":"logo_caro_img border_purple",
+    "img":"/Images/Angular.png",
+    "toggle":"even"
+    }
+]
