@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { AiOutlineMail } from "react-icons/ai";
 import { BiPhoneCall } from "react-icons/bi";
 import { mail, phone } from "../Constants/Constants";
