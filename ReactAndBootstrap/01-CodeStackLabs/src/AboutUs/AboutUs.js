@@ -17,13 +17,13 @@ export default function AboutUs({ setModal }) {
         <div className="row align-items-center">
           <div data-aos="flip-left" className="col-sm-4">
             <img
-              src="Images/Anurag-Verma.jpg"
-              alt="Anurag Verma"
+              src="Images/UNRIVALLEDKING.jpeg"
+              alt="UNRIVALLEDKING"
               className="img-fluid rounded"
             />
           </div>
           <div data-aos="zoom-in-right" className="col-sm-8 px-3">
-            <h5 className="small_heading">Anurag Verma</h5>
+            <h5 className="small_heading">UNRIVALLEDKING</h5>
             <p className="paragraph text-center">Founder</p>
             <p className="paragraph text-center">
               CodeStack Labs is a Custom Software Development, Web Applications
